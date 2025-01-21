@@ -1,6 +1,6 @@
 baseURL = 'https://valery.nivelais.com/'
 languageCode = 'en-us'
-title = 'L'expert '
+title = 'L expert '
 theme = 'hello-friend-ng'
 
 enableRobotsTXT = true
