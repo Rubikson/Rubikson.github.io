@@ -5,8 +5,8 @@
 {{ define "main" }}
     <main aria-role="main">
         <div>
-            {{ if .Site.Params.Portraits.Path }}
-               <img src="{{ .Site.Params.Portraits.Path }}" alt="{{ .Site.Params.Portraits.Alt }}" style="max-width:{{ .Site.Params.Portraits.MaxWidth }}" />
+            {{ if .Site.Params.Portrait.Path }}
+               <img src="{{ .Site.Params.Portrait.Path }}" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
             {{ end }}
 
             <h1>{{ .Site.Title }}</h1>
