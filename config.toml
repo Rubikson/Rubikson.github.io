@@ -1,6 +1,6 @@
 baseURL = 'https://valery.nivelais.com/'
 languageCode = 'en-us'
-title = 'L expert '
+title = ' infos page suivante '
 theme = 'hello-friend-ng'
 
 enableRobotsTXT = true
@@ -79,7 +79,7 @@ disableHugoGeneratorInject = false
 [menu]
     [[menu.main]]
         identifier = "about"
-        name       = "info"
+        name       = "infos"
         url        = "info/"
        #[[menu.main]]
         #identifier = "tarifs"
