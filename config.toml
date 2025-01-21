@@ -1,6 +1,6 @@
 baseURL = 'https://valery.nivelais.com/'
 languageCode = 'en-us'
-title = ' infos page suivante '
+title = '  '
 theme = 'hello-friend-ng'
 
 enableRobotsTXT = true
@@ -21,7 +21,7 @@ disableHugoGeneratorInject = false
 
     # Seo
     description = "VNentreprise"
-    keywords = "bricolage , assistance informatique, accompagnement handicap"
+    keywords = "bricolage , assistance informatique,aide à domicile, accompagnement handicap"
 
     # Subtitle for the home page
     homeSubtitle = " "
