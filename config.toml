@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
     logoCursorPathname = false
 
 
-dans ce code , ou va se positionner les img?
+
 # Add square portrait to home page
 [params.portrait]
     path     = "/img/carte visite.jpg"
