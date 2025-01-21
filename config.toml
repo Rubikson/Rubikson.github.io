@@ -1,6 +1,6 @@
 baseURL = 'https://valery.nivelais.com/'
 languageCode = 'en-us'
-title = '-------------'
+title = 'L'expert '
 theme = 'hello-friend-ng'
 
 enableRobotsTXT = true
@@ -53,15 +53,18 @@ disableHugoGeneratorInject = false
     logoHomeLink = "/"
     logoCursorPathname = false
 
-# Add square portraits to home page
-[params.portraits]
-    path     = "/img/carte_visite.jpg"
+
+dans ce code , ou va se positionner les img?
+# Add square portrait to home page
+[params.portrait]
+    path     = "/img/carte visite.jpg"
     alt      = ""
-    maxWidth = "600px"
-    maxHeight = "600px"
+    maxWidth = "400px"
+    maxHeight = "400px"
+    # Add square portrait to home page
 
+    # Add square portrait to home page
 
-     # Add square portraits to home page
 
     
 
