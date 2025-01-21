@@ -53,7 +53,7 @@ disableHugoGeneratorInject = false
     logoHomeLink = "/"
     logoCursorPathname = false
 
-# Add square portrait to home page
+# Add square portraits to home page
 [params.portrait]
     path     = "/img/carte_visite.jpg"
     alt      = ""
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
     maxHeight = "600px"
 
 
-     # Add square portrait to home page
+     # Add square portraits to home page
 
     
 
