@@ -13,20 +13,21 @@ Mon objectif : apporter des solutions pratiques, adaptées et efficaces dans les
 
 ## Domaines d'expertise
 
-### Assistance informatique à domicile
+### Assistance informatique 
 Aide à la prise en main des outils numériques (ordinateurs, tablettes, smartphones)
 Résolution de problèmes techniques courants (connexion, logiciels, périphériques)
 Formation personnalisée pour tous les âges et niveaux (débutants ou avancés)
 Conseils sur la sécurité informatique et la gestion des données personnelles
 
-### Bricolage et aménagement
-Réalisation de petits travaux : peinture, montage de meubles, réparations diverses, tronçonnage et fente de bois...
-Installation et maintenance de dispositifs techniques (domotique, équipements spécifiques)
 
 ### Accompagnement personnalisé
 Accompagnement éducatif : soutien aux familles et aux jeunes dans des projets éducatifs et d'inclusion ou dans le quotidien.
 Aide à la gestion administrative (rédaction de documents, démarches en ligne)
 Conseil et soutien moral pour les personnes traversant des périodes difficiles.
+
+### Bricolage et aménagement
+Réalisation de petits travaux : peinture, montage de meubles, réparations diverses, tronçonnage et fente de bois...
+Installation et maintenance de dispositifs techniques (domotique, équipements spécifiques)
 
 ## Mon Parcours 
 
