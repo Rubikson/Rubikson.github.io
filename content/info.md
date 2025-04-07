@@ -20,14 +20,14 @@ MANAGEMENT OPERATIONNEL - GESTION DE CENTRE DE PROFIT
 
 
 
-##DIRECTEUR  AQUAPARC–(SAINT NAZAIRE AGGLO) -SEPT 2017/SEPT 2023
+## DIRECTEUR  AQUAPARC–(SAINT NAZAIRE AGGLO) -SEPT 2017/SEPT 2023
 -	Ouverture et Direction du centre aquatique de Saint Nazaire, (350 000 entrées/an, 52 salariés)
 -   Management opérationnel
 -	Elaboration de cahiers des charges,( informatique, monétique, contrôle d’accès…)
 -	Construction de l’outil Planning, Recrutement, Conventions, Plan d’organisation, gestion du 
     budget (M14)
 
-##DIRECTEUR  DE PISCINE  (SAVENAY 44) –OCT 2011/SEPT 2017
+## DIRECTEUR  DE PISCINE  (SAVENAY 44) –OCT 2011/SEPT 2017
 -	Management opérationnel,(MNS, Entretien, Accueil, chefs d’équipes)
 -	Création d’outils de reporting et d’indicateurs de gestion
 
@@ -39,31 +39,32 @@ DIRECTEUR  DE PISCINE  (SAVENAY 44) –OCT 2011/SEPT 2017
 -	Lien avec l’ARS, DDCS,Préfécture…
 -	Interface auprès des décideurs politiques et la direction générale.
 
-##DIRECTEUR ADJOINT ,MAITRE-NAGEUR–LE MANS-MAI 2005/JUIN 2009      
+## DIRECTEUR ADJOINT ,MAITRE-NAGEUR–LE MANS-MAI 2005/JUIN 2009      
 -	Management , encadrement pédagogique, aquagym …
 -	Suivi budgétaire , marketing 
 -	Mise en place et suivi des indicateurs de gestion, reporting financiers …
 
-##DEVELOPPEUR  TESTS AUTOMATISES –(NAOCONCEPT)  –CDD NOV 24/JAN 2025
+## DEVELOPPEUR  TESTS AUTOMATISES –(NAOCONCEPT)  –CDD NOV 24/JAN 2025
 -	Conception de tests automatisés sur cypress. - javascript –json
 
-##CHEF DE SERVICE EDUCATIF  –(LINKIAA) –CDD JUIN /SEPT 2024
+## CHEF DE SERVICE EDUCATIF  –(LINKIAA) –CDD JUIN /SEPT 2024
 -	Management de l’équipe éducative au sein d’un dispositif d’accueil inconditionnel pour 
     adolescents (DAIA).
 -	Lien direct avec les acteurs départementaux, ASE, CMP…. médical et paramédical
 -	Animation de groupe de travail éducatif , analyse de la pratique
 -	Suivi RH et budgétaire, refonte des plannings.
 
-##ANALYSTE PROGRAMMEUR (MMA)-SEPT 2003/AVRIL 2004 
+## ANALYSTE PROGRAMMEUR (MMA)-SEPT 2003/AVRIL 2004 
 -	MMA : Analyse de données, modèle conceptuel, algorithmes, codage en VB sous base oracle et 
     Access.
 -	Conception SGBD, suivi des commandes infra sur l’architecture matérielle en lien avec les 
     gestionnaires budget.
 
-##EDUCATEUR  MAISON D’ENFANTS -SAUVEGARDE 72 SEPT1994/JUIN 2002
+## EDUCATEUR  MAISON D’ENFANTS -SAUVEGARDE 72 SEPT1994/JUIN 2002
 -	En Maison d’enfants à caractère social auprès d'adolescents victimes de dysfonctionnements 
     familiaux
--	Prise en charge en Centre Educatif Fermé de jeunes délinquants multirécidivistes en placement judiciaire .
+-	Prise en charge en Centre Educatif Fermé de jeunes délinquants multirécidivistes en placement 
+    judiciaire .
 -	Régulation de conflits, lien avec les services et les familles, gestion activités sportives, 
     voyages etc..
 
