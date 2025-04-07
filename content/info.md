@@ -11,10 +11,8 @@ Je suis un professionnel polyvalent et bienveillant, riche de plus de 18 années
 
 Mon objectif : apporter des solutions pratiques, adaptées et efficaces dans les domaines de l’assistance informatique, du bricolage, et de l’accompagnement personnalisé, tout en cultivant un climat de confiance et d’écoute.
 
-## Domaines d'expertise
+### Domaines d'expertise
 MANAGEMENT OPERATIONNEL - GESTION DE CENTRE DE PROFIT
-
-
 
 ## Mon Parcours 
 
