@@ -7,59 +7,67 @@ keywords: ["homme à tout faire , bricolage, assistance informatique, accompagne
 
 ## Présentation
 
-Je suis un professionnel polyvalent et bienveillant, riche de plus de 18 années d'expérience dans l'accompagnement, la gestion d'équipes, et l'assistance auprès de publics variés. Passionné par l'humain et le service, je mets à profit mes compétences pour répondre aux besoins spécifiques de chacun, notamment dans le cadre du handicap et de l'éducation.
+Je suis un professionnel polyvalent et bienveillant, riche de plus de 18 années d'expérience dans le MANAGEMENT, la gestion d'équipes, et l'assistance auprès de publics variés. Passionné par l'humain et le service, je mets à profit mes compétences pour répondre aux besoins spécifiques de chacun;
 
 Mon objectif : apporter des solutions pratiques, adaptées et efficaces dans les domaines de l’assistance informatique, du bricolage, et de l’accompagnement personnalisé, tout en cultivant un climat de confiance et d’écoute.
 
 ## Domaines d'expertise
-
-### Assistance informatique 
-Aide à la prise en main des outils numériques (ordinateurs, tablettes, smartphones)
-Résolution de problèmes techniques courants (connexion, logiciels, périphériques)
-Formation personnalisée pour tous les âges et niveaux (débutants ou avancés)
-Conseils sur la sécurité informatique et la gestion des données personnelles
+MANAGEMENT OPERATIONNEL - GESTION DE CENTRE DE PROFIT
 
 
-### Accompagnement personnalisé
-Accompagnement éducatif : soutien aux familles et aux jeunes dans des projets éducatifs et d'inclusion ou dans le quotidien.
-Aide à la gestion administrative (rédaction de documents, démarches en ligne)
-Conseil et soutien moral pour les personnes traversant des périodes difficiles.
-
-### Bricolage et aménagement
-Réalisation de petits travaux : peinture, montage de meubles, réparations diverses, tronçonnage et fente de bois...
-Installation et maintenance de dispositifs techniques (domotique, équipements spécifiques)
 
 ## Mon Parcours 
 
-### Assistant Polyvalent à Domicile (2024 - aujourd'hui)
-Interventions variées auprès de particuliers pour des besoins en informatique, bricolage, et accompagnement personnalisé
-
-### Chef de Service Éducatif – Association LINKIAA (2024)
-Encadrement d’une équipe de travailleurs sociaux et suivi éducatif de jeunes adolescents
-Mise en place d’un environnement éducatif adapté aux besoins spécifiques
-
-### Directeur Aquaparc – Saint Nazaire Agglo (2017-2023)
-Gestion et ouverture d’un centre aquatique accueillant 350 000 visiteurs par an
-Coordination d’une équipe pluridisciplinaire de 50 personnes
-
-### Directeur de Piscine en Régie – Savenay (2011-2017)
-Mise en œuvre de l'organisation complète d’un établissement public
-Création d’outils de gestion performants pour le suivi budgétaire
-
-### Éducateur spécialisé – Sauvegarde 72 (1994-2002)
-Accompagnement d’adolescents confrontés à des situations familiales complexes
-Gestion des conflits et animation d’activités éducatives et sportives
-
-## Ce qui me distingue
-Une écoute attentive et une grande bienveillance dans chaque interaction
-Une approche personnalisée pour répondre aux besoins spécifiques de chacun
-Une solide expérience dans le domaine du handicap et de l’éducation
-Une capacité à combiner savoir-faire techniques et qualités humaines
 
 
-Contactez-moi
-Pour toute question ou besoin d’intervention, je suis à votre disposition :
+##DIRECTEUR  AQUAPARC–(SAINT NAZAIRE AGGLO) -SEPT 2017/SEPT 2023
+-	Ouverture et Direction du centre aquatique de Saint Nazaire, (350 000 entrées/an, 52 salariés)
+-   Management opérationnel
+-	Elaboration de cahiers des charges,( informatique, monétique, contrôle d’accès…)
+-	Construction de l’outil Planning, Recrutement, Conventions, Plan d’organisation, gestion du 
+    budget (M14)
+
+##DIRECTEUR  DE PISCINE  (SAVENAY 44) –OCT 2011/SEPT 2017
+-	Management opérationnel,(MNS, Entretien, Accueil, chefs d’équipes)
+-	Création d’outils de reporting et d’indicateurs de gestion
+
+DIRECTEUR  DE PISCINE  (SAVENAY 44) –OCT 2011/SEPT 2017
+-	Ouverture de l’établissement, mise en place et recrutement du personnel 
+-	Élaboration d’outils de reporting, Construction du planning d’occupation des bassins, gestion  
+    du budget.
+-	Participation aux appels d’offres.
+-	Lien avec l’ARS, DDCS,Préfécture…
+-	Interface auprès des décideurs politiques et la direction générale.
+
+##DIRECTEUR ADJOINT ,MAITRE-NAGEUR–LE MANS-MAI 2005/JUIN 2009      
+-	Management , encadrement pédagogique, aquagym …
+-	Suivi budgétaire , marketing 
+-	Mise en place et suivi des indicateurs de gestion, reporting financiers …
+
+##DEVELOPPEUR  TESTS AUTOMATISES –(NAOCONCEPT)  –CDD NOV 24/JAN 2025
+-	Conception de tests automatisés sur cypress. - javascript –json
+
+##CHEF DE SERVICE EDUCATIF  –(LINKIAA) –CDD JUIN /SEPT 2024
+-	Management de l’équipe éducative au sein d’un dispositif d’accueil inconditionnel pour 
+    adolescents (DAIA).
+-	Lien direct avec les acteurs départementaux, ASE, CMP…. médical et paramédical
+-	Animation de groupe de travail éducatif , analyse de la pratique
+-	Suivi RH et budgétaire, refonte des plannings.
+
+##ANALYSTE PROGRAMMEUR (MMA)-SEPT 2003/AVRIL 2004 
+-	MMA : Analyse de données, modèle conceptuel, algorithmes, codage en VB sous base oracle et 
+    Access.
+-	Conception SGBD, suivi des commandes infra sur l’architecture matérielle en lien avec les 
+    gestionnaires budget.
+
+##EDUCATEUR  MAISON D’ENFANTS -SAUVEGARDE 72 SEPT1994/JUIN 2002
+-	En Maison d’enfants à caractère social auprès d'adolescents victimes de dysfonctionnements 
+    familiaux
+-	Prise en charge en Centre Educatif Fermé de jeunes délinquants multirécidivistes en placement judiciaire .
+-	Régulation de conflits, lien avec les services et les familles, gestion activités sportives, 
+    voyages etc..
+
+
 
 Téléphone :06 30 65 81 33
 Email : valery@nivelais.com
-SIRET : 432 295 962 00059
