@@ -58,7 +58,7 @@ jobs:
 
       # 🔧 Ajout de cette étape pour éviter l'erreur 'upload-artifact@v3'
       - name: '🧰 Setup upload-artifact'
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: dummy
           path: README.md  # ou un autre petit fichier présent dans ton repo
