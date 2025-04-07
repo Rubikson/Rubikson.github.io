@@ -56,25 +56,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      # 🔧 Ajout de cette étape pour éviter l'erreur 'upload-artifact@v3'
-      - name: '🧰 Setup upload-artifact'
-        uses: actions/upload-artifact@v2
-        with:
-          name: dummy
-          path: README.md  # ou un autre petit fichier présent dans ton repo
-
-      - name: '🚀 Upload artifact'
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ./public
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
       - name: '🚀 Deploy to GitHub Pages'
         id: deployment
         uses: actions/deploy-pages@v1
+
