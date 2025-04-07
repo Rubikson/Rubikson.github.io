@@ -47,7 +47,7 @@ disableHugoGeneratorInject = false
 # Header logo
 [params.logo]
     logoMark     = ">"
-    logoText     = "VN entreprise " 
+    logoText     = " " 
     
     
     logoHomeLink = "/"
