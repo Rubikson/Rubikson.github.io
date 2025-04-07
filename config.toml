@@ -20,8 +20,8 @@ disableHugoGeneratorInject = false
     dateformNumTime = "2006-01-02 15:04"
 
     # Seo
-    description = "VNentreprise"
-    keywords = "bricolage , assistance informatique,aide à domicile, accompagnement handicap"
+    description = ""
+    keywords = "MANAGEMENT"
 
     # Subtitle for the home page
     homeSubtitle = " "
@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
 
 # Add square portrait to home page
 [params.portrait]
-    path     = "/img/carte visite.jpg"
+    path     = "/img/val1.jpg"
     alt      = ""
     maxWidth = "400px"
     maxHeight = "400px"
