@@ -2,8 +2,7 @@
 title: ""
 description: "
 "
-keywords: ["homme à tout faire , bricolage, assistance informatique, accompagnement , handicap"]
----
+keywords: ["manager, chef de projet , informatique,"]
 
 ## Présentation
 
